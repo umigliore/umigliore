@@ -16,6 +16,9 @@ CTO & CDO & Partner of Nexid srl, Milano
 <br>
 
 ## Expertise
+<img alt="4d" src="https://img.shields.io/badge/4D-004088?style=for-the-badge&logo=4d&logoColor=white" />
+<br>
+<br>
 
 <img alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 <img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
