@@ -38,5 +38,6 @@ CTO & CDO & Partner of Nexid srl, Milano
 <br>
 
 <img alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img alt="ovh" src="https://img.shields.io/badge/OVH-123F6D.svg?style=for-the-badge&logo=ovh&logoColor=white"/>
+<img alt="gcp" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <br>
