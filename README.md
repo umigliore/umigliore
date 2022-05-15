@@ -5,6 +5,7 @@ CTO & CDO & Partner of Nexid srl, Milano
 - 👩🏻‍💻 ERP, Multiplatform client server using 4D
 - ☁️ Cloud using AWS, GCP, OVH
 - 📫 umigliore@nexid.it
+- Stackoverflow [![umigliore StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3357902)](https://stackoverflow.com/users/3357902/umberto-migliore)
 
 ## Social
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/umigliore)
