@@ -1,5 +1,6 @@
 ### Make it work, make it right, make it fast (Kent Beck)
-CTO & CDO & Partner of Nexid srl, Milano
+CTO & Partner of Nexid srl, Milano
+- 🤖 AI Privata, LocalLLM, Mlx, Ollama
 - 📱 Mobile with Objective C, Swift, Java, Kotlin, Flutter
 - 🌎 Backend using PHP & Laravel
 - 👩🏻‍💻 ERP, Multiplatform client server using 4D
