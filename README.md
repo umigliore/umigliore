@@ -16,9 +16,6 @@ CTO & Partner of Nexid srl, Milano
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/umigliore/)
 <br>
 <br>
-## Github
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umigliore&count_private=true&show_icons=true&theme=buefy)
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umigliore&layout=compact&theme=buefy)
 ## Expertise
 <img alt="4d" src="https://img.shields.io/badge/4D-004088?style=for-the-badge&logo=4d&logoColor=white" />
 <img alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />  <img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
