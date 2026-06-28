@@ -5,7 +5,7 @@
 ### _"Make it work, make it right, make it fast."_ — Kent Beck
 
 **CTO & Partner @ NEXiD srl** · Milano 🇮🇹
-
+_Aiuto le aziende a innovare con AI, 4D, Dati in Cloud e soluzioni custom_
 </div>
 
 ---
@@ -14,12 +14,15 @@
 
 Sono CTO e Partner di **NEXiD srl**, digital company milanese. Mi occupo di guidare la parte tecnologica dell'azienda, dalla scelta dello stack giusto alla delivery dei progetti, passando per mobile, backend, cloud e — più di recente — AI applicata.
 
-- 🤖 **AI Privata & Local LLM** — MLX, Ollama
+- 🤖 **AI Privata & Local LLM** — MLX, Ollama, llama.cpp
 - 📱 **Mobile** — Objective-C, Swift, Java, Kotlin, Flutter
-- 🌎 **Backend** — PHP & Laravel
+- 🌎 **Backend** — PHP, MySql, PostgreSQL, Laravel
 - 👩🏻‍💻 **ERP & Client/Server multipiattaforma** — 4D
+- 🐳 **DevOps** — Docker, Kubernetes
 - ☁️ **Cloud** — AWS, GCP, OVH
 
+> 🏆 Pull Shark · Arctic Code Vault Contributor
+ 
 ---
 
 ## 🛠️ Stack & Tecnologie
